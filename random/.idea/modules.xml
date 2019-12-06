@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/stacks_and_queues.iml" filepath="$PROJECT_DIR$/stacks_and_queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithmic_problems.iml" filepath="$PROJECT_DIR$/algorithmic_problems.iml" />
     </modules>
   </component>
 </project>
