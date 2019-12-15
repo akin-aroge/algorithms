@@ -45,10 +45,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackWithMax">
+  <component name="RunManager" selected="Application.Permutation">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Deque" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Deque" />
+      <module name="stacks_and_queues" />
+      <method v="2" />
     </configuration>
     <configuration name="FixedCapacityStack" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="FixedCapacityStack" />
@@ -62,6 +67,17 @@
     </configuration>
     <configuration name="LinkedListStack" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="LinkedListStack" />
+      <module name="stacks_and_queues" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <module name="stacks_and_queues" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
       <module name="stacks_and_queues" />
       <method v="2" />
     </configuration>

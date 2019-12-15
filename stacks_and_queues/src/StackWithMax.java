@@ -28,7 +28,7 @@ public class StackWithMax extends LinkedListStack<Integer> {
 
     public Integer max() {
         if (maxStack.isEmpty()) {
-            return Integer.MIN_VALUE;  // lowest integer to compare with
+            return Integer.MIN_VALUE;  // might be able to use null here
         } else {
             return maxStack.peek();
         }

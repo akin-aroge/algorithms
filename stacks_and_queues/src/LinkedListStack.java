@@ -14,7 +14,8 @@ public class LinkedListStack<Item> {
     }
 
     public boolean isEmpty() {
-        return N == 0;  // or
+        // return N == 0;  // or
+        return first == null;
     }
 
     public int size() {

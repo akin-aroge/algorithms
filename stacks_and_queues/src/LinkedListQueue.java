@@ -12,7 +12,8 @@ public class LinkedListQueue<Item> {
     }
 
     public boolean isEmpty() {
-        return N == 0;
+        //return N == 0;
+        return first == null;
     }
 
     public int size() {
@@ -31,6 +32,7 @@ public class LinkedListQueue<Item> {
         }
         N++;
     }
+
 
     public Item dequeue() {
         Item item = first.item;
