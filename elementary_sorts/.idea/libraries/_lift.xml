@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name=".lift">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../percolation/.lift" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../percolation/.lift" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../percolation/.lift" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../percolation/.lift" recursive="false" type="SOURCES" />
+  </library>
+</component>
